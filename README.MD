@@ -1,7 +1,7 @@
 # MQTT Streaming Application Prototype
 
 This repository contains code for an Internet Of Things Proof of Concept.
-You can read about the project here:
+You can read about the project here: http://bit.ly/jowmqtt
 
 
 
@@ -13,7 +13,7 @@ You can read about the project here:
 * SBT
 * Spark 2.0.1
 * Plot.ly API Key
-* Phillips Hue Lighting System 
+* Philips Hue Lighting System 
 * Leap Motion Controller
 
 
