@@ -50,10 +50,6 @@
         {
           "href": "https://github.com/josep2/mqtt_iot",
           "text": "GitHub"
-        },
-        {
-          "href": "https://npmjs.com/package/mqtt_iot",
-          "text": "npm"
         }
       ]
     },
